@@ -1,9 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>
-La documentazione<br>
-</title>
 </head>
 <body>
 <h2>
